@@ -1,4 +1,4 @@
-# QR Code Generator 🐍
+# QR Code Generator 
 
 A simple Python project that generates QR codes from URLs or text.
 
